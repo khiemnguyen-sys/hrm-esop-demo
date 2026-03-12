@@ -1,0 +1,25 @@
+# Built output
+[Dd]ebug/
+[Rr]elease/
+[Aa][Ss][Mm]/*
+[Ll][Oo][Gg]/*
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio folder
+.vs/
+
+# Rider folder
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# Mac specific
+.DS_Store
